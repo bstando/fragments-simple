@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fragments</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Example text</string>
+    <string name="sendBtnName">Wyślij</string>
+    <string name="exit_action">Wyjdź</string>
+</resources>
